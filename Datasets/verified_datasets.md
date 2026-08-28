@@ -39,4 +39,4 @@ A curated collection of verified benchmark datasets used for Automated Claim Ver
 * **Source:** University of Copenhagen
 * **Description:** A large-scale multi-domain dataset of real-world claims annotated with evidence contexts across diverse domains.
 * **Application:** Cross-domain generalizability evaluation for automated claim verification.
-* **Link:** [MultiFC Dataset](https://github.com/copenhagen-nlp/MultiFC)
+* **Link:** [MultiFC Official Site](https://copenhagen-nlp.github.io/multiFC/)
