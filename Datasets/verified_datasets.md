@@ -36,7 +36,7 @@ A curated collection of verified benchmark datasets used for Automated Claim Ver
 ---
 
 ## 4. MultiFC (Multi-Domain Fact-Checking)
-* **Source:** University of Copenhagen
-* **Description:** A large-scale multi-domain dataset of real-world claims annotated with evidence contexts across diverse domains.
+* **Source:** Copenhagen Natural Language Understanding (CopenLU)
+* **Description:** A large-scale multi-domain dataset of 34K real-world claims annotated with evidence contexts and metadata across 26 fact-checking portals.
 * **Application:** Cross-domain generalizability evaluation for automated claim verification.
-* **Link:** [MultiFC Official Site](https://copenhagen-nlp.github.io/multiFC/)
+* **Links:** [MultiFC ACL Paper Page](https://aclanthology.org/D19-1475/) | [CopenLU Official Project Page](https://copenlu.github.io/publication/2019_emnlp_augenstein/)
